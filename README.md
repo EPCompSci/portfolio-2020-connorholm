@@ -10,5 +10,5 @@ I learned about Flask, a Python based web framework. I ran the website on a Ubun
 [COVID-19 Project](https://github.com/connorholm/Covid-19-Website)
 
 ##### EPHS App
-I learned how to develop a User Interface in Swift. Currently working to configure dates and time to get progress into the day.
+I learned how to develop a User Interface in Swift for a High School audience. Currently working to configure dates and time to get progress into the day.
 [EPHS App](https://github.com/connorholm/EPHS-App)
