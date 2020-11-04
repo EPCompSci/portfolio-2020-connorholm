@@ -8,9 +8,10 @@ I'd like you to consider this assignment as a way to get a job / internship / in
 Create links to group projects (create a new repo for completed apps) you've been working on, making sure the read me's have details about what the apps do in the format the app store asks - look at a couple apps to see what I'm talking about. Don't forget about those first simple apps you created - they still matter!
 
 # 2020
-COVID-19 Website Application
+# COVID-19 Website Application
 I learned about Flask, a Python based web framework. I ran the website on a Ubuntu server, using HTML/CSS to form the actual website. To gather accurate data, I used BeautifulSoup a webscraping library in Python.
+https://github.com/connorholm/Covid-19-Website
 
-EPHS App
+# EPHS App
 I learned how to develop a User Interface in Swift. Currently working to configure dates and time to get progress into the day.
 https://github.com/connorholm/EPHS-App
