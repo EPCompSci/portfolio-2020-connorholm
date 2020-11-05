@@ -17,5 +17,5 @@ I learned about Flask, a Python based web framework. I ran the website on a Ubun
 I have worked a lot with webscraping either using BeatifulSoup or Pyppeteer. Some of the projects include summary finders, a free Craglist item program, and practicing applications with Flask. [Python Repo](https://github.com/connorholm/Python)
 
 ##### EPHS App
-I learned how to develop a User Interface in Swift for a High School audience. Currently working to configure dates and time to get progress into the day.
+I learned how to develop a User Interface in Swift for a High School audience. This app has a home, to-do, login, tutorial, and menu pages to help provide students with more information about there class and campus life. I am currently working to configure dates and time to get progress into the day.
 [EPHS App](https://github.com/connorholm/EPHS-App)
