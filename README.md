@@ -1,4 +1,5 @@
 # Portfolio
+Hello! My name is Connor and I have a passion for programming. I love being able to solve problems through my work with coding. I have taken computer science courses including AP Computer Science Principles and AP Java. I am currently taking, iOS App Development and Cyber Security. I plan on taking Advanced iOS in the Spring of 2021. I have experience coding in Python, Java, Swift, and HTML/CSS.
 ## 2018
 #### Homework Planner
 Learned how to build a graphical interface in MIT App Inventor. Created a way to keep track of your homework. I submitted this for my AP Computer Science Principles final create project. [Homework Planner](https://github.com/connorholm/HomeworkPlanner)
@@ -10,7 +11,6 @@ Learned about developing a graphical user interface with in Java using JFrames. 
 ##### COVID-19 Website Application
 I learned about Flask, a Python based web framework. I ran the website on a Ubuntu server, using HTML/CSS to form the actual website. To gather accurate data, I used BeautifulSoup a webscraping library in Python.
 [COVID-19 Project](https://github.com/connorholm/Covid-19-Website)
-
 #### Work with Python
 I have worked a lot with webscraping either using BeatifulSoup or Pyppeteer. Some of the projects include summary finders, a free Craglist item program, and practicing applications with Flask. [Python Repo](https://github.com/connorholm/Python)
 
