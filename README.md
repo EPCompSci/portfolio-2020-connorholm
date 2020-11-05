@@ -1,8 +1,10 @@
 # Portfolio
-
+## 2018
+#### Homework Planner
+Learned how to build a graphical interface in MIT App Inventor. Created a way to keep track of your homework. I submitted this for my AP Computer Science Principles final create project. [Homework Planner](https://github.com/connorholm/HomeworkPlanner)
 ## 2020
 #### BlackJack
-Learn about developing a graphical user interface with in Java using JFrames. This was my final project for AP Computer Science A.
+Learned about developing a graphical user interface with in Java using JFrames. This was my final project for AP Computer Science A.
 [BlackJack Project](https://github.com/connorholm/BlackJack)
 
 ##### COVID-19 Website Application
