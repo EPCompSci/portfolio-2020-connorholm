@@ -2,7 +2,7 @@
 Hello! My name is Connor Holm and I have a passion for programming. I love being able to solve problems through my work with coding. I have taken computer science courses including AP Computer Science Principles and AP Java. I am currently taking, iOS App Development and Cyber Security. I plan on taking Advanced iOS in the Spring of 2021. I have experience coding in Python, Java, Swift, and HTML/CSS.
 ## 2018
 #### Homework Planner
-In this project, I learned how to build a graphical interface in MIT App Inventor. Created a way to keep track of your homework. I submitted this for my AP Computer Science Principles final create project. [Homework Planner](https://github.com/connorholm/HomeworkPlanner)
+In this project, I learned how to build a graphical interface in MIT App Inventor. Created a way to keep track of your homework. I submitted this for my AP Computer Science Principles final create project.       [Homework Planner](https://github.com/connorholm/HomeworkPlanner)
 ![Planner UI](https://github.com/connorholm/HomeworkPlanner/blob/main/Screen%20Shot%202020-11-05%20at%2010.46.57%20AM.png)
 ## 2020
 #### BlackJack
