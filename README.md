@@ -11,6 +11,7 @@ Learned about developing a graphical user interface with in Java using JFrames. 
 ##### COVID-19 Website Application
 I learned about Flask, a Python based web framework. I ran the website on a Ubuntu server, using HTML/CSS to form the actual website. To gather accurate data, I used BeautifulSoup a webscraping library in Python.
 [COVID-19 Project](https://github.com/connorholm/Covid-19-Website)
+![Website Homepage](/Users/90305163/Desktop/covidwebsite.png)
 
 #### Work with Python
 I have worked a lot with webscraping either using BeatifulSoup or Pyppeteer. Some of the projects include summary finders, a free Craglist item program, and practicing applications with Flask. [Python Repo](https://github.com/connorholm/Python)
