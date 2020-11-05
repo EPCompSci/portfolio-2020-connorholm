@@ -3,6 +3,7 @@ Hello! My name is Connor Holm and I have a passion for programming. I love being
 ## 2018
 #### Homework Planner
 Learned how to build a graphical interface in MIT App Inventor. Created a way to keep track of your homework. I submitted this for my AP Computer Science Principles final create project. [Homework Planner](https://github.com/connorholm/HomeworkPlanner)
+![Planner UI](https://github.com/connorholm/HomeworkPlanner/blob/main/Screen%20Shot%202020-11-05%20at%2010.46.57%20AM.png)
 ## 2020
 #### BlackJack
 Learned about developing a graphical user interface with in Java using JFrames. This was my final project for AP Computer Science A.
