@@ -1,9 +1,22 @@
-# iOS-Portfolio
-2018-2019 Portfolio
+# Portfolio
+Hello! My name is Connor Holm and I have a passion for programming. I love being able to solve problems through my work with coding. I have taken computer science courses including AP Computer Science Principles and AP Java. I am currently taking, iOS App Development and Cyber Security. I plan on taking Advanced iOS in the Spring of 2021. I have experience coding in Python, Java, Swift, and HTML/CSS.
+## 2018
+#### Homework Planner
+In this project, I learned how to build a graphical interface in MIT App Inventor. It created a great way to keep track of your homework. I submitted this for my AP Computer Science Principles final create project.[Homework Planner](https://github.com/connorholm/HomeworkPlanner)
+![Planner UI](https://github.com/connorholm/HomeworkPlanner/blob/main/Screen%20Shot%202020-11-05%20at%2010.46.57%20AM.png)
+## 2020
+#### BlackJack
+Learned about developing a graphical user interface with in Java using JFrames. This was my final project for AP Computer Science A.
+[BlackJack Project](https://github.com/connorholm/BlackJack)
 
-Using this space as the home base for your portfolio, make a wiki or pages like this read me to highlight what you have learned / created over this semester of class. You should consider this as much for your grade as your resume. You've got incredible work to highlight and brag about - do that here. 
+##### COVID-19 Website Application
+I learned about Flask, a Python based web framework. I ran the website on a Ubuntu server, using HTML/CSS to form the actual website. To gather accurate data, I used BeautifulSoup a webscraping library in Python.
+[COVID-19 Project](https://github.com/connorholm/Covid-19-Website)
+![Website Homepage](https://github.com/connorholm/Covid-19-Website/blob/main/covidwebsite.png)
 
-I'd like you to consider this assignment as a way to get a job / internship / independent contract with someone outside the school.
-
-Create links to group projects (create a new repo for completed apps) you've been working on, making sure the read me's have details about what the apps do in the format the app store asks - look at a couple apps to see what I'm talking about. Don't forget about those first simple apps you created - they still matter!
-
+#### Work with Python
+I have worked a lot with webscraping either using BeatifulSoup or Pyppeteer. Some of the projects include summary finders, a free Craglist item program, and practicing applications with Flask. [Python Repo](https://github.com/connorholm/Python)
+![Subject Summary Finder](https://github.com/connorholm/Python/blob/master/Webscraping/SubjectSummary.png)
+##### EPHS App
+I learned how to develop a User Interface in Swift for a High School audience. This app has a home, to-do, login, tutorial, and menu pages to help provide students with more information about there class and campus life. I am currently working to configure dates and time to get progress into the day.
+[EPHS App](https://github.com/connorholm/EPHS-App)
