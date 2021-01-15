@@ -19,4 +19,4 @@ I have worked a lot with webscraping either using BeatifulSoup or Pyppeteer. Som
 ![Subject Summary Finder](https://github.com/connorholm/Python/blob/master/Webscraping/SubjectSummary.png)
 ##### EPHS App
 I learned how to develop a User Interface in Swift for a High School audience. This app has a home, to-do, login, tutorial, and menu pages to help provide students with more information about there class and campus life. I am currently working to configure dates and time to get progress into the day.
-[EPHS App](https://github.com/connorholm/EPHS-App)
+[EPHS App](https://github.com/connorholm/ephsapp2020/blob/main/README.md)
