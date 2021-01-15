@@ -29,4 +29,9 @@ In this project, I coded a terminal and gui based chat application. This communi
 * Learned a lot about socket programming in python
 ![Chat App](https://github.com/connorholm/ChatApp/blob/main/ChatAppGUI.png)
 ##### GrandPad Staff Training Website
+Micro-Internship project with GrandPad, developed a website to help train staff members on how to use the device. Helps provide a great solution virtual to training people to use the GrandPad.
+</br>
+* Built with HTML and CSS to correctly fomat the websites data and appearance
+* Used Loom to create tutorial videos with the GrandPad
+![Learn Page](https://github.com/connorholm/GrandPadTrainingWebsite/blob/main/Screen%20Shot%202021-01-04%20at%2010.07.05%20PM.png)
 [Website Code](https://github.com/connorholm/GrandPadTrainingWebsite)
