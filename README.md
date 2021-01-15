@@ -22,3 +22,9 @@ I learned how to develop a User Interface in Swift for a High School audience. T
 [EPHS App](https://github.com/connorholm/ephsapp2020/blob/main/README.md)
 </br>
 <img width=200 alt="logic screen" src="https://github.com/connorholm/ephsapp2020/blob/main/IMG_1017.PNG"> <img width=200 alt="announcements page" src="https://github.com/connorholm/ephsapp2020/blob/main/IMG_1016.PNG"> <img width=200 alt="assignments page" src="https://github.com/connorholm/ephsapp2020/blob/main/IMG_1015.PNG"> <img width=200 alt="web page" src="https://github.com/connorholm/ephsapp2020/blob/main/IMG_1014.PNG">
+##### Chat App
+In this project, I coded a terminal and gui based chat application. This communicates through a public ubuntu server to allow for anyone to communicate with each other.
+* The project's gui interface was created using Python's TKinter library
+* The project has a program for localhost rather than through the public server
+* Learned a lot about socket programming in python
+![Chat App](https://github.com/connorholm/ChatApp/blob/main/ChatAppGUI.png)
